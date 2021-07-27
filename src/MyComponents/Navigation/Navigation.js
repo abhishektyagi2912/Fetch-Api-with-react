@@ -9,7 +9,7 @@ const Navigation = ({ onButtonSubmit}) => {
                     <h3 className="logo">Get user</h3>
                     <div className='nav-links'>
                         <Button className='btn' variant="contained" onClick={onButtonSubmit} color="primary">
-                            Get Users
+                            Team
                         </Button>
                     </div>
                 </nav>
