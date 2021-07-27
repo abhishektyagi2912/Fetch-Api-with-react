@@ -13,7 +13,7 @@ const LoaderComp = ()=>{
             timeout={2000}
             />
        </div>
-            <footer className='copyapp' >Copyright &copy; Developed and Developed by Udaya Rajasekhar</footer>
+            <footer className='copyapp' >Copyright &copy;Developed by Abhishek Tyagi</footer>
    </>
     );
 }
