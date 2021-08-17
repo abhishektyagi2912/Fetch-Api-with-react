@@ -9,4 +9,3 @@ To run the code
 2.  ``npm run``
 
 ## Preview
-https://abhishektyagi2912.github.io/Fetch-Api-with-react/
