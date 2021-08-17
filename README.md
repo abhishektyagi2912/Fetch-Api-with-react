@@ -2,7 +2,7 @@
 
 To run the code
 
-# steps:-
+# Steps:-
 
 1.  ``npm install``
 
